@@ -6,7 +6,7 @@ const Counter =()=>{
     <div className="container">
       <div className="head">
       <h1>SUM = {num}</h1>
-      <h2>Add Coumter</h2>
+      <button  className="btnAd">Add Coumter</button>
       </div>
       <div className="content">
      <button  className="btn btn-1">+</button>
