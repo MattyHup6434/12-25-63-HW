@@ -10,7 +10,7 @@ const Counter =()=>{
       </div>
       <div className="content">
      <button  className="btn btn-1">+</button>
-     <button  className="btn btn-2">{0}</button>
+     <button  className="btn btn-2">{num}</button>
      <button  className="btn btn-3">-</button>
      <button  className="btn btn-4">C</button>
     </div>
